@@ -12,21 +12,22 @@
       <b style="font-size:22px">✨ About Me</b>
     </td>
   </tr> 
-    <tr> 
-      <td> 
-        <p> Hi! I'm <strong>Preetish Majumdar</strong>, a data engineer driven by curiosity and a passion for innovation. 
-        I thrive on solving complex problems, diving deep into emerging technologies, and turning ideas into impactful solutions. </p> 
-        <ul> 
-          <li>💡 <strong>Philosophy:</strong> Code, Learn, Iterate, Improve</li>  
-          <li>🚀 <strong>Currently Exploring:</strong> The fascinating world of Gen-AI & Reinforcement Learning</li> 
-          <li>🌍 <strong>Location:</strong> Somewhere in the digital realm, coding my next breakthrough</li> 
-          <li>🎯 <strong>Hobbies:</strong> Debugging life one problem at a time, gaming, and watching anime</li> 
-        </ul> 
-      </td> 
-      <td><img src="images\eye.gif" alt="GIF" style="width: 100%; border-radius: 10px;">
-      </td>
-    </tr> 
+  <tr> 
+    <td> 
+      <p> Hi! I'm <strong>Preetish Majumdar</strong>, a final-year Computer Science Engineering student at SRM University, passionate about bridging the gap between education and employability through AI. 
+      I'm the creator of <em>Career Compass</em>, an AI-powered career development platform helping students unlock their potential. </p> 
+      <ul> 
+        <li>💡 <strong>Philosophy:</strong> Learn, Build, Iterate, Evolve</li>  
+        <li>🚀 <strong>Currently Exploring:</strong> Career tech, Gen-AI, and AI-driven education tools</li> 
+        <li>🌍 <strong>Location:</strong> Chennai, India (originally from Nagpur)</li> 
+        <li>🎯 <strong>Hobbies:</strong> Piano, music production, tech projects, and exploring what’s next</li> 
+      </ul> 
+    </td> 
+    <td><img src="images/eye.gif" alt="GIF" style="width: 100%; border-radius: 10px;">
+    </td>
+  </tr> 
 </table>
+
 
 ---
 
