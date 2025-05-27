@@ -92,21 +92,21 @@
 
 <div align="center">
   <!-- Row 1 -->
-  <a href="https://www.linkedin.com/in/shrayan-mandal/">
+  <a href="https://www.linkedin.com/in/preetish-majumdar-75296b211/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.kaggle.com/shrayanmandal">
+  <a href="https://www.kaggle.com/preetishmajumdar">
     <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
-  <a href="https://leetcode.com/u/shrayanmandal21/">
+  <a href="https://leetcode.com/u/PreetishMajumdar/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
   
   <!-- Row 2 -->
-  <a href="https://www.hackerrank.com/profile/shrayanmandal21">
+  <a href="https://www.hackerrank.com/profile/preetishmajumdar">
     <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
-  <a href="mailto:shrayanmandal21@gmail.com">
+  <a href="mailto:preetishmajumdar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
