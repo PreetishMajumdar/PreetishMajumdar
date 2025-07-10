@@ -29,7 +29,7 @@
 
 ## 👨‍💻 **About Me**
 
-**🎓 Final Year CSE Student @ SRM University**  
+**🎓 MSc Data Science at The University of Manchester**  
 **🖥️ Data Engineer & AI Researcher**  
 **🤖 Reinforcement Learning Explorer**  
 **🌱 Perpetual Technology Learner**
