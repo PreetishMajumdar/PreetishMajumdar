@@ -47,7 +47,6 @@
 **Career Compass** - AI-powered career development platform helping students bridge the gap between education and employability.
 
 ### 🌍 **Location & Background**
-- 📍 Currently in Chennai, India
 - 🏠 Originally from Nagpur, Maharashtra
 - 🎹 Passionate about Piano & Music Production
 - 🔧 Love building innovative tech solutions
